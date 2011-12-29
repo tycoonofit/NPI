@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Claim_Form", "C:\Documents and Settings\Administrator\Desktop\Claim_Form\", "{41F390D9-35AA-4102-A2DC-21ADB563665A}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/Claim_Form"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\Desktop\Claim_Form\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Claim_Form\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Claim_Form"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\Desktop\Claim_Form\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Claim_Form\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "3922"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41F390D9-35AA-4102-A2DC-21ADB563665A}.Debug|.NET.ActiveCfg = Debug|.NET
+		{41F390D9-35AA-4102-A2DC-21ADB563665A}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
